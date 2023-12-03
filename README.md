@@ -1,16 +1,25 @@
-# todo
+# TODO 
 
-A new Flutter project.
+TODO, your personal productivity assistant! Here's what you can do:
+
+Create a new task and add subtasks to track your progress.
+Prioritize tasks using our simple yet effective prioritization system.
+Mark tasks as complete once you've finished them.
+Get reminded of upcoming tasks with our customizable local notifications.
+Review your task history and improve your productivity with insights.
+Enjoy My TODO, and never let a task slip through the cracks again!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<img src="images/homeScreenDark.png"  width="300"/>
+<img src="assets/homeSceen.png"  width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+</p>
+<p align="center">
+<img src="images/tasks.png"  width="300"/>
+<img src="assets/createNewTask.png"  width="300"/>
+<img src="images/completetasks.png"  width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

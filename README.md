@@ -13,12 +13,12 @@ Enjoy My TODO, and never let a task slip through the cracks again!
 
 <p align="center">
 <img src="images/homeScreenDark.png"  width="300"/>
-<img src="assets/homeSceen.png"  width="300"/>
+<img src="images/homeSceen.png"  width="300"/>
 
 </p>
 <p align="center">
 <img src="images/tasks.png"  width="300"/>
-<img src="assets/createNewTask.png"  width="300"/>
+<img src="images/createNewTask.png"  width="300"/>
 <img src="images/completetasks.png"  width="300"/>
 
 </p>
